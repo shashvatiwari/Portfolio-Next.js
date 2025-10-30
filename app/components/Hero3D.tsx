@@ -194,8 +194,8 @@ export default function PersonalProfile() {
                 {[
                   { label: "Projects", value: "15+", icon: "🚀", color: "from-purple-500 to-cyan-400" },
                   { label: "Technologies", value: "20+", icon: "🛠️", color: "from-cyan-500 to-blue-400" },
-                  { label: "Code Problems", value: "500+", icon: "⚡", color: "from-yellow-500 to-amber-400" },
-                  { label: "Experience", value: "2+ Years", icon: "💼", color: "from-green-500 to-emerald-400" }
+                  { label: "Code Problems", value: "1500+", icon: "⚡", color: "from-yellow-500 to-amber-400" },
+                  { label: "Experience", value: "1+ Years", icon: "💼", color: "from-green-500 to-emerald-400" }
                 ].map((stat, index) => (
                   <motion.div
                     key={stat.label}
