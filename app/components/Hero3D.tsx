@@ -64,8 +64,8 @@ export default function PersonalProfile() {
     },
     
     resume: {
-      url: "/resume.pdf",
-      onlineUrl: "/resume-view"
+      url: "https://drive.google.com/file/d/1TZmhBC89KnW6pEz1uItWdc8-OBEIjdMV/view?usp=sharing",
+      onlineUrl: "https://drive.google.com/file/d/1TZmhBC89KnW6pEz1uItWdc8-OBEIjdMV/view?usp=sharing"
     }
   }
 
